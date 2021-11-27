@@ -1,4 +1,4 @@
-# Godot 2D JRPG Combat System
+# Godot 2D JRPG Combat System - TSC
 
 ![JRGP banner image](./images/2d-jrpg-banner.png)
 
